@@ -1,3 +1,16 @@
+Please note your unique ID for future exercises in this module: 839151
+
+Your resource group name is: learn-f0dafc99-ff85-46a4-ba84-55c3c43baa92
+
+Your resources were deployed in the following region: westus
+
+Your server name is: bus-server839151
+
+Connection string: Server=bus-server839151.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=AdminCloud1$;Connection Timeout=30;
+
+username: cloudadmin
+password: AdminCloud1$
+
 # Build serverless, full stack applications in Azure
 
 Learn how to create, build, and deploy modern full stack applications in Azure leveraging the language of your choice (Python, Node.js, or .NET) and with a simple JQuery frontend. Topics covered include modern database capabilities, CI/CD and DevOps, backend API development, REST, and more. Using a real-world scenario of trying to catch the bus, you will learn how to build a solution that leverages Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code and GitHub Actions.
